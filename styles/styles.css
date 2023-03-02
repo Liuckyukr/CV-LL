@@ -30,6 +30,12 @@ body {
     margin-bottom: 20px;
     color: rosybrown;
 } 
+.country {
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px; 
+    color: rgb(172, 136, 136);
+}
 .about-name {
     font-style: normal;
     font-weight: 600;
