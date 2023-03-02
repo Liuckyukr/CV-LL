@@ -1,0 +1,225 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #F5F7FA;
+}
+/*main styles*/
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1280px;
+    margin: 0 auto;
+}
+.main-content {
+    background-color: rgb(249, 231, 253);
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px 50px;
+    max-width: 520px;
+}
+/*about user styles*/
+.about {
+    color: #1c496e;
+    margin-bottom: 40px;
+    
+}
+.about-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: rosybrown;
+} 
+.about-name {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 15px;
+}
+.about-description {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    
+}
+/*projects styles*/
+.projects {
+    margin-bottom: 35px;
+}
+.project-list {
+   padding: 0; 
+   margin-left: 15px;
+}
+.projects-item,
+.projekt-bracket {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1a2c4d;
+}
+.project, 
+.project-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.project-link {
+    margin-left: 10px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #596883; 
+    margin-bottom: 10px;
+}
+/*work styles*/
+.work {
+    width: 500px;
+}
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0a2047;
+    margin-bottom: 11px;
+}
+.organization {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 11px;
+    color: #a7644c;
+}
+.period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 8px;
+}
+.line {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.work-list {
+    padding: 0;
+    margin-left: 15px;
+}
+.work-list-item,
+.portfolio {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 509px;
+}
+/*education styles*/
+h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #122746;
+    margin-bottom: 12px; 
+    margin-top: 11px;  
+}
+/*sidebar styles*/
+.sidebar {
+    background-color: #726972;
+    padding-top: 40px;
+    width: 370px
+}
+.photo {
+    width: 370px;
+    margin-bottom: 50px;
+}
+.sidebar-title {
+    color: #FFF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.contacts {
+    margin-left: 48px;
+    margin-bottom: 50px;
+}
+.tech-skills {
+    margin-left: 48px;
+    margin-bottom: 50px;
+}
+.soft-skills {
+    margin-left: 48px;
+}
+.contact-type {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+.contact-link,
+.contact-link-1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    opacity: 0.5;
+    color: #e0d5d5;
+    margin-right: 10px;
+}
+
+.contact-link-1 {
+    margin-left: 28px;
+}
+.list {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0;
+    margin-left: 15px;
+}
+.skills-text {
+    color: #FFFFFF;
+}
+.iten {
+    color: #be9d81;
+}
+
+h6 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 5px;
+    color: #122746;
+    margin-top: 24px; 
+    margin-bottom: 0px;
+}
+
+.level {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 5px;
+    color: #595959;
+    width: 509px;
+}
