@@ -50,6 +50,13 @@ body {
     line-height: 20px;
     
 }
+.portfolio-link {
+    color: rosybrown;
+    font-weight: bold;
+}
+.portfolio-link:hover {
+    color: #a7644c;
+}
 /*projects styles*/
 .projects {
     margin-bottom: 35px;
