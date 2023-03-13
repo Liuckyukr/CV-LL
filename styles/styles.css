@@ -179,6 +179,7 @@ h5 {
 }
 .soft-skills {
     margin-left: 48px;
+    margin-bottom: 50px;
 }
 .contact-type {
     font-style: normal;
@@ -218,13 +219,16 @@ h5 {
     color: #be9d81;
 }
 
+.languages {
+    margin-left: 48px;
+}
 h6 {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 5px;
-    color: #122746;
-    margin-top: 24px; 
+    color: #FFF;
+    
     margin-bottom: 0px;
 }
 
@@ -233,6 +237,6 @@ h6 {
     font-weight: 400;
     font-size: 14px;
     line-height: 5px;
-    color: #595959;
+    color: #be9d81;
     width: 509px;
 }
