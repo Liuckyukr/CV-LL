@@ -38,7 +38,7 @@ body {
     color: rosybrown;
     margin-top: 40px;
 } 
-.country {
+.country, .looking, .can-do {
     font-style: normal;
     font-size: 16px;
     line-height: 20px; 
@@ -58,6 +58,18 @@ body {
     line-height: 20px;
     
 }
+
+.about-looking, .about-can-do{
+    font-size: 15px;
+    margin-top: -12px;
+}
+
+.box-looking, .box-can-do {
+    background-color:#eeebeb;
+    padding: 2px 20px;
+    box-shadow: 4px 4px 4px #dbd4db;
+}
+
 .portfolio-link {
     color: rosybrown;
     font-weight: bold;
