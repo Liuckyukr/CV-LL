@@ -21,7 +21,7 @@ body {
 .main-content {
     background-color: rgb(249, 231, 253);
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 30px 50px;
+    padding: 0px 50px;
     max-width: 520px;
 }
 /*about user styles*/
