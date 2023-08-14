@@ -174,12 +174,12 @@ h5 {
 /*sidebar styles*/
 .sidebar {
     background-color: #726972;
-    padding-top: 40px;
+    padding-top: 30px;
     width: 370px
 }
 .photo {
     width: 370px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .sidebar-title {
     color: #FFF;
