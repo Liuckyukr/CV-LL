@@ -10,13 +10,14 @@ body {
     width: 1280px;
     margin: 0 auto;
 }
-.download {
+.download, .language {
     text-decoration: none;
     background-color:#726972;
     padding: 16px 20px;
     border-radius: 4px;
     color:#FFF;
     opacity: 0.8;
+    margin-right: 20px;
 }
 .main-content {
     background-color: rgb(249, 231, 253);
