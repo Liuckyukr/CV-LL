@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    width: 1280px;
+    width: 1110px;
     margin: 0 auto;
 }
 .download, .language {
@@ -22,7 +22,7 @@ body {
 .main-content {
     background-color: rgb(249, 231, 253);
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 30px 50px;
+    padding: 3% 3%;
     max-width: 740px;
 }
 /*about user styles*/
@@ -41,7 +41,7 @@ body {
 } 
 .country, .looking, .can-do {
     font-style: normal;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 20px; 
     color: rgb(172, 136, 136);
 }
@@ -56,20 +56,9 @@ body {
 .about-description {
     font-style: normal;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 20px;
     
-}
-
-.about-looking, .about-can-do{
-    font-size: 16px;
-    margin-top: -12px;
-}
-
-.box-looking, .box-can-do {
-    background-color:#eeebeb;
-    padding: 2px 20px;
-    box-shadow: 4px 4px 4px #dbd4db;
 }
 
 .portfolio-link {
@@ -110,7 +99,7 @@ body {
 .title {
     font-style: normal;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 24px;
     line-height: 27px;
     color: #596883; 
     margin-bottom: 10px;
@@ -122,7 +111,7 @@ body {
 .work-position {
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 20px;
     color: #0a2047;
     margin-bottom: 11px;
@@ -130,35 +119,30 @@ body {
 .organization {
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 20px;
     margin-bottom: 11px;
-    color: #a7644c;
+    color: #ca8585;
 }
 .period {
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 15px;
     color: #302a2a;
     margin-bottom: 8px;
 }
-.line {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    color: #000000;
-}
+
 .work-list {
     padding: 0;
     margin-left: 15px;
 }
 .work-list-item,
-.portfolio {
+.portfolio,
+.additional {
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 24px;
     color: #595959;
     width: 720px;
@@ -167,7 +151,7 @@ body {
 h5 {
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 17px;
     color: #122746;
     margin-bottom: 16px; 
@@ -195,20 +179,16 @@ h5 {
     margin-left: 48px;
     margin-bottom: 50px;
 }
-.tech-skills {
-    margin-left: 48px;
-    margin-bottom: 50px;
-}
-.soft-skills {
+.skills {
     margin-left: 48px;
     margin-bottom: 50px;
 }
 .contact-type {
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #FFFFFF;
+    color: #be9d81;
     margin-right: 10px;
 }
 .contact-link,
@@ -229,14 +209,14 @@ h5 {
     color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     padding: 0;
     margin-left: 15px;
 }
 .skills-text {
     color: #FFFFFF;
-    font-size: 16px;
+    font-size: 18px;
 }
 .iten {
     color: #be9d81;
@@ -249,7 +229,7 @@ h5 {
 h6 {
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 5px;
     color: #FFF;
     margin-bottom: 0;
@@ -258,7 +238,7 @@ h6 {
 .level {
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 5px;
     color: #d3beac;
     width: 509px;
